@@ -1,0 +1,2 @@
+- What's up, I’m @johnhvnter and I'm 20 y/o
+- Just building a portfolio for my career and trying to learn while going to college classes!
