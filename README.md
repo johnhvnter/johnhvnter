@@ -1,2 +1,3 @@
-- What's up, I’m @johnhvnter and I'm 20 y/o
-- Just building a portfolio for my career and trying to learn while going to college classes!
+What's up I'm Hunter 🧟
+
+I'm a 21 y/o Marketing Student looking to learn more about Fullstack Web Development.
